@@ -1,11 +1,11 @@
 
 ## Description
 
-###Desafio Front-End- Consultando CNPs
+### Desafio Front-End- Consultando CNPs
 
 O objetivo é fazer um front-end para pesquisa e análise deCNPJs. Não é preciso fazer o back, o sistema deve ser acessado pelo navegador e fazer buscas apenas em APIs Públicas
 
-###Caso de Uso:
+### Caso de Uso:
 ● Deve ser possivel inserir um CNPJ, com validação se ela esta em um formato valido;
 
 ● Deve consultar o CNPJ na Receita Federal, através de uma API pública;
