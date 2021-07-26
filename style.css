@@ -20,6 +20,11 @@ body,
     min-height: 100vh;
 }
 
+.row h2 {
+    text-align: center;
+    margin: 15%;
+}
+
 @-webkit-keyframes cd-bounce {
     0%,
     100% {

@@ -13,10 +13,11 @@
 <form>
   <div class="row">
     <div class="col-md-4"></div>
-
+    
     <div class="col-md-4">
+    <h2>Consultar CNPJ</h2>
       <div class="form-group row">
-        <div class="col-md-12"><br /><br />
+        <div class="col-md-12">
           <label>CNPJ</label>
           <input type="text" onblur="checkCnpj(this.value)" data-mask="00.000.000/0000-00" class="form-control" >
         </div>
